@@ -38,6 +38,6 @@ nmcpAggregation {
 
 
 
-// Call publishAggregationToCentralPortal to publish the aggregation
-// Call publishAggregationToCentralPortalSnapshots to publish to the snapshots
-// Call nmcpPublishAggregationToMavenLocal to publish to the maven local
+// Call gradle publishAggregationToCentralPortal to publish the aggregation
+// Call gradle publishAggregationToCentralPortalSnapshots to publish to the snapshots
+// Call gradle nmcpPublishAggregationToMavenLocal to publish to the maven local
